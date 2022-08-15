@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Raphael Fiorda</h1>
 <h3 align="center">I'm a Web Developer/Back-end from Brazil</h3>
 
-- 🌱 I’m currently learning **Node.js and RESTful APIs**
+- 🌱 I’m currently learning **SOLID principles and consolidating my Typescript skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raphaelfiorda](https://github.com/raphaelfiorda)
 
